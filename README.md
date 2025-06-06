@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Visual Analysis and Predictions Across Airlines in R
+# ✈️ Flight Delay Visual Analysis and Predictions Across Airlines
 
 **by Marco Ortiz**
 
