@@ -1,7 +1,5 @@
 # ✈️ Flight Delay Visual Analysis and Predictions Across Airlines | R
 
-**by Marco Ortiz**
-
 This project explores patterns of flight delays across major U.S. airlines using real-world flight data. The analysis aims to uncover insights through visualizations and statistical summaries, and to make initial predictive assessments based on flight delay patterns.
 
 ---
