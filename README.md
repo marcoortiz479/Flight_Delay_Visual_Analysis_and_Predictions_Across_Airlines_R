@@ -1,6 +1,6 @@
-# ✈️ Flight Delay Visual Analysis and Predictions Across Airlines | R
+# ✈️ Flight Delay Visual Analysis and Predictions Across Airlines | R (April 2025 - May 2025)
 
-This project explores patterns of flight delays across major U.S. airlines using real-world flight data. The analysis aims to uncover insights through visualizations and statistical summaries, and to make initial predictive assessments based on flight delay patterns.
+Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to uncover delay patterns by airline, time of day, and airport. Built and evaluated predictive models using caret, achieving up to 78% accuracy in classifying delayed flights.
 
 ---
 
