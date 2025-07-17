@@ -6,9 +6,11 @@ Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to
 
 ## 📂 Files Included
 
-- `flights.csv`: Raw dataset containing flight-level details such as airline, origin, destination, departure delay, arrival delay, and more.
-- `airlines_carrier_codes.csv`: Mapping of airline codes to full carrier names.
-- `notebook.ipynb`: R-based notebook containing data cleaning, visualizations, and exploratory analysis.
+- `flights.csv.gz` – Compressed dataset containing 336,000+ U.S. domestic flights, including variables such as departure and arrival delays, flight number, airline carrier code, origin and destination airports, and scheduled vs. actual departure/arrival times. This dataset serves as the foundation for identifying operational inefficiencies and temporal delay trends.
+
+`airlines_carrier_codes.csv` – Reference table mapping airline carrier codes (e.g., “AA”, “DL”) to full airline names (e.g., American Airlines, Delta Air Lines), enabling clearer labeling and interpretation in visualizations.
+
+`notebook.ipynb` – R-based Jupyter Notebook containing all data cleaning, exploratory analysis, and visualizations performed using dplyr and ggplot2.
 
 ---
 
