@@ -1,6 +1,6 @@
 # ✈️ Flight Delay Visual Analysis and Predictions Across Airlines | R (April 2025 - May 2025)
 
-Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to uncover delay patterns by airline, time of day, and airport. Built and evaluated predictive models using caret, achieving up to 78% accuracy in classifying delayed flights.
+Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to uncover delay patterns by airline, time of day, and airport. Merged datasets and visualized trends to highlight performance gaps across carriers and seasonal delay patterns for operational insights.
 
 ---
 
@@ -25,7 +25,7 @@ Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to
 
 - **Language:** R
 - **Environment:** R in Jupyter Notebook (via IRKernel)
-- **Libraries:** `tidyverse`, `ggplot2`, `dplyr`, `readr`
+- **Libraries:** `ggplot2`, `dplyr`, `readr`
 
 ---
 
