@@ -25,7 +25,7 @@ Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to
 
 - **Language:** R
 - **Environment:** R in Jupyter Notebook (via IRKernel)
-- **Libraries:** `tidyverse`, `ggplot2`, `dplyr`, `lubridate`, `readr`
+- **Libraries:** `tidyverse`, `ggplot2`, `dplyr`, `readr`
 
 ---
 
@@ -67,4 +67,4 @@ Performed exploratory analysis on 600K+ U.S. flights using R (dplyr, ggplot2) to
 1. Open `notebook.ipynb` using Jupyter with R kernel.
 2. Install required R packages if not already installed:
    ```R
-   install.packages(c("tidyverse", "ggplot2", "dplyr", "lubridate", "readr"))
+   install.packages(c("ggplot2", "dplyr", "readr"))
