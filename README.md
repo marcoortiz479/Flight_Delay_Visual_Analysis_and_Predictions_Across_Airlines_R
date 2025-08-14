@@ -25,7 +25,7 @@ Performed exploratory analysis on 336,000+ U.S. flights using R (dplyr, ggplot2)
 
 - **Language:** R
 - **Environment:** R in Jupyter Notebook (via IRKernel)
-- **Libraries:** `ggplot2`, `dplyr`, `readr`
+- **Libraries:** `ggplot2`, `dplyr`, `readr`, `lubridate`
 
 ---
 
