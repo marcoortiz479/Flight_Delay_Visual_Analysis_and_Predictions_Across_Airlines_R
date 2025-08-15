@@ -1,6 +1,6 @@
 # ✈️ Flight Delay Visual Analysis and Predictions Across Airlines | R (April 2025 - May 2025)
 
-Performed exploratory analysis on 336,000+ U.S. flights using R (dplyr, ggplot2) to uncover delay patterns by airline, time of day, and airport. Merged datasets and visualized trends to highlight performance gaps across carriers and seasonal delay patterns for operational insights.
+Performed exploratory data analysis (EDA) on 336,000+ U.S. flights using R (dplyr, ggplot2) to uncover delay patterns by airline, time of day, and airport. Merged datasets and visualized trends to highlight performance gaps across carriers and seasonal delay patterns for operational insights.
 
 ---
 
